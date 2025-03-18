@@ -6,7 +6,11 @@ This project analyzes Spotify listening history to identify patterns in album, a
 ### 🚀 Key Features & Insights
 1. **Listening Patterns**  
    - 🔥 *Heatmap of Listening Hours vs Days*  
-   - ⏳ *Average Listening Time vs Track Frequency Scatter Plot with Quadrant Analysis*
+   - ⏳ *Average Listening Time vs Track Frequency Scatter Plot with Quadrant Analysis*  
+     - **🎯 High Frequency & High Listening Time** – Most engaging tracks  
+     - **📌 Low Frequency & High Listening Time** – Niche but impactful tracks  
+     - **🔄 High Frequency & Low Listening Time** – Short & frequently played tracks  
+     - **📉 Low Frequency & Low Listening Time** – Less popular tracks  
 
 2. **Album Analysis**  
    - 📅 *Total Albums Played Over Time*  
@@ -99,22 +103,26 @@ RETURN Result
 ---
 
 ## 📸 Dashboard Preview
+![Home page dashboard](Home_spotify.png)
 ![Listening Patterns Dashboard](Listening_pattern_spotify.png)
+![detailed data](data_to_drill_spotify.png)
+
+
+![Short Video of working](short_video_spotify.gif)
 
 ---
 
 ## 📌 Files in This Repository
-📂 `Spotify Data Explanation.docx` - Detailed project documentation  
-📂 `Spotify Analysis.pptx` - Presentation slides summarizing key insights  
-📂 `Listening_pattern_spotify.png` - Sample visualization  
+📂 `spotify_history.csv` - Dataset   
+📂 `Spotify_dashboard.pbix` - Dynamic PowerBI Dashboard    
+📂 `Spotify_dashboard.pdf` - Dashboard Preview   
 
 ---
 
 ## 🔗 Connect with Me
 💼 **Shrine Mary Reji**  
-📧 [Your Email]  
-🌐 [LinkedIn Profile]  
+📧 [Email](maryshrine18@gmail.com)  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/shrinemary-analyst/)
 
 ---
 
-Would you like me to create the GitHub repository and structure the files for you? 🚀
